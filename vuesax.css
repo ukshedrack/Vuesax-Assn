@@ -68,6 +68,7 @@ input::placeholder{
 .leftColumn > p{
 	color: #2C2C2C;
 	margin: 10px 22px 0;
+	font-size: 11em;
 }
 .navigation{
 	margin: 10px 22px 22px 22px;
@@ -208,7 +209,7 @@ li .nav-items-list-left{
 .section-1-left .e-commerce{
 	font-style: normal;
 	font-weight: normal;
-	font-size: 8px;
+	font-size: 10px;
 	color: #7E72F2; 
 	padding-right: 0.5em;
 }
